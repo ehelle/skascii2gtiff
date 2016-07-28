@@ -6,4 +6,4 @@ Dependencies:
 gdal, python-gdal
 
 Usage:
-pyhon ./skascii2gtiff ./path/to/my-href.ascii ./my-geotiff.tif
+python skascii2gtiff.py ./path/to/my-href.ascii ./my-geotiff.tif
